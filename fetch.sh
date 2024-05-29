@@ -26,7 +26,7 @@ TextColor=$YELLOW
 Spec=$BROWN_ORANGE
 
 #CHANGE THIS PATH TO YOUR REPO PATH
-IMAGE=~/Desktop/projects/Neofetch/hehe.png 
+IMAGE=~/Desktop/projects/Neofetch/Untitled.png 
 
 
 display_info() {
